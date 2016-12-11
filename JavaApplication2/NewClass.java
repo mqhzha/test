@@ -11,4 +11,6 @@ package test.JavaApplication2;
  */
 public class NewClass {
     
+    
+    dsfsklfjksdjfksdjf
 }
